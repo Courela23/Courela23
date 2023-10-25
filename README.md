@@ -1,5 +1,6 @@
 
-<h1>Hi, I'm Courage, an <a href="www.linkedin.com">IT Professional</a>☺</h1>
+<h1>Hi, I'm Courage, an <a href="LinkedIn ![image](https://github.com/Courela23/Courela23/assets/136120929/12b6696a-5efe-41df-aa75-e617d19adaff)
+">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
