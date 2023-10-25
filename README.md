@@ -8,10 +8,10 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Courela23/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Courela23/AWS-USER-GROUPS)
  
 - <b>Amazon Web Services(AWS)</b>
-
+  -- [AWS Identity and Access Management (IAM)](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>Forgae: Virtual Hands on Experience</b>
 
 <h2>🤳Connect with me:</h2>
