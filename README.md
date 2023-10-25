@@ -12,7 +12,7 @@
  
 - <b>Amazon Web Services(AWS)</b>
 
-- <b>Forgae: Virtual Hands on Experience Web</b>
+- <b>Forgae: Virtual Hands on Experience</b>
 
 <h2>🤳Connect with me:</h2>
 
