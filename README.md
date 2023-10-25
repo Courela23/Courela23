@@ -1,6 +1,4 @@
-
-<h1>Hi, I'm Courage, an <a href="LinkedIn ![image](https://github.com/Courela23/Courela23/assets/136120929/12b6696a-5efe-41df-aa75-e617d19adaff)
-">IT Professional</a>☺</h1>
+<h1>Hi, I'm Courage, an <a href="[https://linkedin.com/in/Josh](https://www.linkedin.com/in/courage-acheampong-27530323b/)">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
