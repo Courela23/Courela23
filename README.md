@@ -14,8 +14,6 @@
     
 - <b>Virtual Private Networks (VPN)</b>
   - [Azure VM & Proton VPN Configuration](https://github.com/Courela23/vpn-config)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
     
 - <b>Amazon Web Services(AWS)</b>
   - [AWS Identity and Access Management (IAM)](https://github.com/Courela23/aws-user-groups)
