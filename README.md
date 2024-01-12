@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating a VM in Azure](https://github.com/Courela23/vms-azure)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Courela23/configure-ad)
+  - [Creating a VM in Azure ✅](https://github.com/Courela23/vms-azure)
+  - [Configuring On-premises Active Directory within Azure VMs ](https://github.com/Courela23/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Courela23/azure-network-protocols)
  
 - <b>osTicket (Help Desk Ticketing System)</b>
