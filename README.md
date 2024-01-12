@@ -4,22 +4,22 @@
 
 - <b>Microsoft Azure</b>
   - [Creating a VM in Azure ✅](https://github.com/Courela23/vms-azure)
-  - [Configuring On-premises Active Directory within Azure VMs ](https://github.com/Courela23/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs (..Upload in Progress)](https://github.com/Courela23/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Courela23/azure-network-protocols)
  
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Courela23/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation (..Upload in Progress)](https://github.com/Courela23/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration (..Upload in Progress)](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples (..Upload in Progress)](https://github.com/joshmadakorcc/ticket-lifecycle)
     
 - <b>Virtual Private Networks (VPN)</b>
-  - [Azure VM & Proton VPN Configuration](https://github.com/Courela23/vpn-config)
+  - [Azure VM & Proton VPN Configuration (..Upload in Progress)](https://github.com/Courela23/vpn-config)
     
 - <b>Amazon Web Services(AWS)</b>
-  - [AWS Identity and Access Management (IAM)](https://github.com/Courela23/aws-user-groups)
+  - [AWS Identity and Access Management (IAM) (..Upload in Progress)](https://github.com/Courela23/aws-user-groups)
     
 - <b>Forgae: Virtual Hands on Experience</b>
-  - [Shields Up; Cybersecurity ](https://github.com/Courela23/aws-user-groups)
+  - [Shields Up; Cybersecurity (..Upload in Progress)](https://github.com/Courela23/aws-user-groups)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
