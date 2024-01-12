@@ -13,7 +13,7 @@
   - [osTicket: Ticket Lifecycle Examples (..Upload in Progress)](https://github.com/joshmadakorcc/ticket-lifecycle)
     
 - <b>Virtual Private Networks (VPN)</b>
-  - [Azure VM & Proton VPN Configuration (..Upload in Progress)](https://github.com/Courela23/vpn-config)
+  - [Azure VM & Proton VPN Configuration ✅](https://github.com/Courela23/vpn-config)
     
 - <b>Amazon Web Services(AWS)</b>
   - [AWS Identity and Access Management (IAM) (..Upload in Progress)](https://github.com/Courela23/aws-user-groups)
