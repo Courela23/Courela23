@@ -4,6 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Creating a VM in Azure ✅](https://github.com/Courela23/vms-azure)
+  - [AWS Identity and Access Management (IAM) (..Upload in Progress)](https://github.com/Courela23/aws-user-groups)
   - [Configuring On-premises Active Directory within Azure VMs (..Upload in Progress)](https://github.com/Courela23/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Courela23/azure-network-protocols)
  
