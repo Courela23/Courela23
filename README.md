@@ -9,6 +9,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Courela23/azure-network-protocols)
  
 - <b>CYBER</b>
+  - [Azure VM & Proton VPN Configuration ✅](https://github.com/Courela23/vpn-config)
   - [osTicket: Prerequisites and Installation (..Upload in Progress)](https://github.com/Courela23/osticket-prereqs)
   - [osTicket: Post-Installation Configuration (..Upload in Progress)](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples (..Upload in Progress)](https://github.com/joshmadakorcc/ticket-lifecycle)
