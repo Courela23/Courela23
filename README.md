@@ -8,7 +8,7 @@
   - [Configuring On-premises Active Directory within Azure VMs (..Upload in Progress)](https://github.com/Courela23/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Courela23/azure-network-protocols)
  
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>CYBER</b>
   - [osTicket: Prerequisites and Installation (..Upload in Progress)](https://github.com/Courela23/osticket-prereqs)
   - [osTicket: Post-Installation Configuration (..Upload in Progress)](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples (..Upload in Progress)](https://github.com/joshmadakorcc/ticket-lifecycle)
