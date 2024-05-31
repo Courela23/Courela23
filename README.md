@@ -5,19 +5,13 @@
 - <b>CLOUD</b>
   - [Creating a VM in Azure ✅](https://github.com/Courela23/vms-azure)
   - [AWS Identity and Access Management (IAM) (..Upload in Progress)](https://github.com/Courela23/aws-user-groups)
-  - [Configuring On-premises Active Directory within Azure VMs (..Upload in Progress)](https://github.com/Courela23/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Courela23/azure-network-protocols)
- 
 - <b>CYBER</b>
   - [Azure VM & Proton VPN Configuration ✅](https://github.com/Courela23/vpn-config)
   - [osTicket: Prerequisites and Installation (..Upload in Progress)](https://github.com/Courela23/osticket-prereqs)
   - [osTicket: Post-Installation Configuration (..Upload in Progress)](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples (..Upload in Progress)](https://github.com/joshmadakorcc/ticket-lifecycle)
     
-- <b>Virtual Private Networks (VPN)</b>
-  - [Azure VM & Proton VPN Configuration ✅](https://github.com/Courela23/vpn-config)
-    
-- <b>Amazon Web Services(AWS)</b>
+- <b>SOAR(PLAYBOOKS)</b>
   - [AWS Identity and Access Management (IAM) (..Upload in Progress)](https://github.com/Courela23/aws-user-groups)
     
 - <b>Forgae: Virtual Hands on Experience</b>
