@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>CLOUD</b>
   - [Creating a VM in Azure ✅](https://github.com/Courela23/vms-azure)
   - [AWS Identity and Access Management (IAM) (..Upload in Progress)](https://github.com/Courela23/aws-user-groups)
   - [Configuring On-premises Active Directory within Azure VMs (..Upload in Progress)](https://github.com/Courela23/configure-ad)
