@@ -8,10 +8,10 @@
 - <b>CYBER</b>
   - [Azure VM & Proton VPN Configuration ✅](https://github.com/Courela23/vpn-config)
 - <b>SOAR(PLAYBOOKS)</b>
-  - [AWS Identity and Access Management (IAM) (..Upload in Progress)](https://github.com/Courela23/aws-user-groups)
+  
     
 - <b>Forgae: Virtual Hands on Experience</b>
-  - [Shields Up; Cybersecurity (..Upload in Progress)](https://github.com/Courela23/aws-user-groups)
+ 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
