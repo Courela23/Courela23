@@ -7,7 +7,7 @@
   - [AWS Identity and Access Management (IAM) (..Upload in Progress)](https://github.com/Courela23/aws-user-groups)
 - <b>CYBER</b>
   - [Azure VM & Proton VPN Configuration ✅](https://github.com/Courela23/vpn-config)
-  - [Installing Wazuh-SIEM on a Linux VM) (..Upload in Progress)](https://github.com/Courela23/aws-user-groups)
+  - [Installing Wazuh-SIEM usinf Linux Commands)](https://github.com/Courela23/aws-user-groups)
 - <b>SOAR(PLAYBOOKS)</b>
   
     
