@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
 - <b>CLOUD</b>
-  - [Creating a VM in Azure ✅](https://github.com/Courela23/vms-azure)
+  - Leslie[Creating a VM in Azure ✅](https://github.com/Courela23/vms-azure)
   - [AWS Identity and Access Management (IAM) (..Upload in Progress)](https://github.com/Courela23/aws-user-groups)
 - <b>CYBER</b>
   - [Azure VM & Proton VPN Configuration ✅](https://github.com/Courela23/vpn-config)
