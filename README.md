@@ -7,8 +7,8 @@
   - [AWS Identity and Access Management (IAM) (..Upload in Progress)](https://github.com/Courela23/aws-user-groups)
 - <b>CYBER</b>
   - [Azure VM & Proton VPN Configuration ✅](https://github.com/Courela23/vpn-config)
-  - [Installing Wazuh-SIEM using Linux Commands)](https://github.com/Courela23/aws-user-groups)✅
-  - [Utilizing Sysmon rules to detect Encoded PowerShell Scripts and RunOnce Registry Key Modifications )](https://github.com/Courela23/aws-user-groups)✅
+  - [Installing Wazuh-SIEM using Linux Commands](https://github.com/Courela23/aws-user-groups)✅
+  - [Utilize Sysmon to detect malicious activity on a Win10 PC](https://github.com/Courela23/aws-user-groups)✅
 - <b>SOAR(PLAYBOOKS)</b>
   
     
