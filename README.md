@@ -1,4 +1,4 @@
-<h1>Hi, I'm Courage, an <a href="https://www.linkedin.com/in/courage-acheampong-27530323b/">Lets Connect on LinkedIn</a>☺</h1>
+<h1>Hello I'm Courage, <a href="https://www.linkedin.com/in/courage-acheampong-27530323b/">Lets Connect on LinkedIn</a>☺</h1>
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
